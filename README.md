@@ -94,5 +94,4 @@ Double check install instructions for both
 
 ## 🤓 Author(s)
 
-**Charly Keleb
-CharlyKeleb** [![Twitter Follow](https://img.shields.io/twitter/follow/Charlykeleb.svg?style=social)](https://twitter.com/Charlykeleb)
+**Yashir Khan**
