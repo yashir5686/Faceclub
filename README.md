@@ -4,6 +4,9 @@ FaceClub is a fully functional social media app with multiple features built wit
 
 Star⭐ the repo if you like what you see😉.
 
+> [!WARNING]
+> The Server side do not work as I used 000WebHost to host my php files and store data but it got discountinued so please change the urls by yourself or I will soon change them and Will also provide php files used for backend tasks for database interaction.
+
 ## ✨ Requirements
 
 * Any Operating System (ie. MacOS X, Linux, Windows)
@@ -85,8 +88,9 @@ Double check install instructions for both
 - Firestore Plugin
     - https://pub.dartlang.org/packages/cloud_firestore
 
-# Info
- - I May work on it more if Requested Otherwise i am done with it. I made it 3 years ago, I Recently noticed it in my Github so why not make it public
+> [!NOTE]
+> # Info
+>  - I May work on it more if Requested Otherwise i am done with it. I made it 3 years ago, I Recently noticed it in my Github so why not make it public
 
 # What's Next? (Maybe)
 - [] Video Calling
